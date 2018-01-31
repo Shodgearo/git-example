@@ -1,5 +1,5 @@
 enter
-print("Hello")
-print("Hello everybody")
-print("Hello again")
+print("Hello;")
+print("Hello everybody;")
+print("Hello again;")
 exit
