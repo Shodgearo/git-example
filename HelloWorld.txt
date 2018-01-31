@@ -2,4 +2,5 @@ enter
 print("Hello")
 print("Hello everybody")
 print("Hello again")
+print("Hello my dear friend")
 exit
