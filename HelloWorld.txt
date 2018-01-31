@@ -1,2 +1,4 @@
+enter
 print("Hello")
 print("Hello everybody")
+exit
