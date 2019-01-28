@@ -3,5 +3,4 @@ print("Hello;")
 print("Hello everybody;")
 print("Hello again;")
 print("Hello my dear friend;")
-print("Glad to see you;")
 exit
